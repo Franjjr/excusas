@@ -12,3 +12,5 @@ function frase(){
 
     document.getElementById("excuse").innerHTML = excusa;
 }
+
+//* he modificado la funcion para que siempre este recalculadno los random cuando se la llame *//
